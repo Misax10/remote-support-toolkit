@@ -81,6 +81,7 @@ This project provides a practical and secure toolkit for performing remote IT su
 ---
 
 ## 📂 Project Structure
+```
 remote-support-toolkit/
 ├── README.md
 ├── checklist/
@@ -92,6 +93,7 @@ remote-support-toolkit/
 │   └── remote_support_demo.mp4
 └── screenshots/
     └── setup_example.png
+```
 ---
 
 ## 🚀 How to Use
