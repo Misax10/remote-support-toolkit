@@ -55,19 +55,19 @@ This project provides a practical and secure toolkit for performing remote IT su
 
 ---
 
-## 🎥 Demo Scenario
+## 🎥 Demo Walkthrough
 
-**Issue**: User reports that their printer is not connecting.
+**Scenario**: A user reports that their printer stopped working after a recent Windows update.
 
-**Steps**:
-1. Initiate a Zoom call with the user.
-2. User installs AnyDesk and shares code.
-3. Remote into the system and check IP configuration using `ipconfig`.
-4. Reinstall or update printer drivers.
-5. Confirm printer is working by sending a test print.
-6. End session and instruct user to uninstall remote access tool for security.
+**Steps Demonstrated**:
+1. Review the support ticket, including user ID and issue description.
+2. Initiate a Zoom call and have the user install AnyDesk.
+3. Connect remotely and observe a printer driver error in Device Manager.
+4. Reinstall the printer driver and confirm functionality with a test print.
+5. Send a follow-up email to the user summarizing the fix and providing support resources.
 
-🖥️ *Demo video available in the [`demo/`](./demo/) folder.*
+🖼️ *Step-by-step visual walkthrough available in the [`demos/`](./demos/) folder.*
+
 
 ---
 
@@ -89,10 +89,9 @@ remote-support-toolkit/
 ├── docs/
 │   ├── Tool_Installation_Guide.md
 │   └── Privacy_Security_Policy.md
-├── demo/
-│   └── remote_support_demo.mp4
-└── screenshots/
-    └── setup_example.png
+├── demos/
+│   └── demos/Printer_Issue_Remote_Support_Walkthrough.md
+
 ```
 ---
 
