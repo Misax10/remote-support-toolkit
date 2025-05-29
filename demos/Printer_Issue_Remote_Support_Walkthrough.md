@@ -15,7 +15,7 @@ Before initiating the session, review the user’s ticket for context. This incl
 - **Issue**: Printer stopped responding after Windows update
 
 📷 *Screenshot*:
-![Step 1 - Support Ticket](./Step%201.png)
+![Step 1 - Support Ticket](./Step1.png)
 
 ---
 
